@@ -1,14 +1,14 @@
-//
-//  ViewController.swift
-//  Destini
-//
-//  Created by Philipp Muellauer on 01/09/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
-//
+    //
+    //  ViewController.swift
+    //  Destini
+    //
+    //  Created by Philipp Muellauer on 01/09/2015.
+    //  Copyright (c) 2015 London App Brewery. All rights reserved.
+    //
 
-import UIKit
+    import UIKit
 
-class ViewController: UIViewController {
+    class ViewController: UIViewController {
     
     // UI Elements linked to the storyboard
     @IBOutlet weak var topButton: UIButton!         // Has TAG = 1
